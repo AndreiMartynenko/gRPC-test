@@ -1,10 +1,12 @@
 package main
 
+import "fmt"
+
 func main() {
 	higRPC()
 
 }
 
 func higRPC() {
-	fmt.Printl("Hello gRPC")
+	fmt.Println("Hello gRPC")
 }
